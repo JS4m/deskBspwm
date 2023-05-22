@@ -93,7 +93,7 @@ chmod +x autoBspwm.sh
 <br><br>
 
 ```bash
-xrandr -s <1920x1080 or your-dimensions>
+xrandr -s 1920x1080 
 ```
 <br><br>
 
