@@ -273,7 +273,7 @@ Añadir # Hashtag
 
 #source /home/$username/powerlevel10k/powerlevel10k.zsh-theme
 
-<h1 align="center"> Instrucciones 🔥 </h1> 
+### Instrucciones 🔥
 
 Windows + Enter : Abrir la consola (gnome-terminal).
 Windows + W : Cerrar la ventana actual.
