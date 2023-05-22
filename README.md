@@ -256,4 +256,44 @@ super + shift + g
     google-chrome
 
 ```
+### Cambiar de Fondo de pantalla
+
+nano ~/.config/bspwm/bspwmrc
+
+
+
+### ARREGLAR ERROR DE MENSAJE  "Warning Console output during zsh initialization detected" 
+
+nano ~/.zshrc
+
+Ejemplo Linea 46 
+Presionar ctrl + / y escribir numero de linea de error
+
+Añadir # Hashtag
+
+#source /home/$username/powerlevel10k/powerlevel10k.zsh-theme
+
+<h1 align="center"> Instrucciones 🔥 </h1> 
+
+Windows + Enter : Abrir la consola (gnome-terminal).
+Windows + W : Cerrar la ventana actual.
+Windows + Alt + R : Reiniciar la configuración del bspwm.
+Windows + Alt + Q : Cerrar sesión.
+Windows + (⬆️⬅️⬇️➡️) : Moverse por las ventanas en la workspace actual.
+Windows + D : Abrir el Rofi. Esc para salir.
+Windows + (1,2,3,4,5,6,7,8,9,0) : Cambiar el workspace.
+Windows + T : Cambiar la ventana actual a modo "terminal" (normal). Nos sirve cuando la ventana está en modo pantalla completa o flotante.
+Windows + M : Cambiar la ventana actual a modo "completo" (no ocupa la polybar). Presione la mismas teclas para volver a modo "terminal" (normal).
+Windows + F : Cambiar la ventana actual a modo pantalla completa (ocupa todo incluyendo la polybar).
+Windows + S : Cambiar la ventana actual a modo "flotante".
+Windows + Shift + (1,2,3,4,5,6,7,8,9,0) : Mover la ventana actual a otro workspace.
+Windows + Alt + (⬆️⬅️⬇️➡️) : Cambiar el tamaño de la ventana actual (solo funciona si está en modo terminal o flotante).
+Windows + Ctrl + (⬆️⬅️⬇️➡️) : Cambiar la posición de la ventana actual (solo funciona en modo flotante).
+Windows + Shift + G : Abrir Google Chrome (es necesario instalarlo primero).
+Windows + Ctrl + Alt + (⬆️⬅️⬇️➡️) : Mostrar una preselección para luego abrir una ventana (una terminal, Google Chrome, un archivo, etc.). Windows + Ctrl + Space para deshacer la preselección.
+
+
+
+
+
 
