@@ -254,25 +254,8 @@ super + shift + f
 
 super + shift + g
     google-chrome
-
-```
-### Cambiar de Fondo de pantalla
-
-nano ~/.config/bspwm/bspwmrc
-
-
-
-### ARREGLAR ERROR DE MENSAJE  "Warning Console output during zsh initialization detected" 
-
-nano ~/.zshrc
-
-Ejemplo Linea 46 
-Presionar ctrl + / y escribir numero de linea de error
-
-Añadir # Hashtag
-
-#source /home/$username/powerlevel10k/powerlevel10k.zsh-theme
-
+    
+    
 ### Instrucciones 🔥
 
 Windows + Enter : Abrir la consola (gnome-terminal).
@@ -291,6 +274,25 @@ Windows + Alt + (⬆️⬅️⬇️➡️) : Cambiar el tamaño de la ventana ac
 Windows + Ctrl + (⬆️⬅️⬇️➡️) : Cambiar la posición de la ventana actual (solo funciona en modo flotante).
 Windows + Shift + G : Abrir Google Chrome (es necesario instalarlo primero).
 Windows + Ctrl + Alt + (⬆️⬅️⬇️➡️) : Mostrar una preselección para luego abrir una ventana (una terminal, Google Chrome, un archivo, etc.). Windows + Ctrl + Space para deshacer la preselección.
+```
+### Cambiar de Fondo de pantalla
+
+nano ~/.config/bspwm/bspwmrc
+
+
+
+### ARREGLAR ERROR DE MENSAJE  "Warning Console output during zsh initialization detected" 
+
+nano ~/.zshrc
+
+Ejemplo Linea 46 
+Presionar ctrl + / y escribir numero de linea de error
+
+Añadir # Hashtag
+
+#source /home/$username/powerlevel10k/powerlevel10k.zsh-theme
+
+
 
 
 
