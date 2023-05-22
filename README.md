@@ -271,7 +271,7 @@ Windows + F : Cambiar la ventana actual a modo pantalla completa (ocupa todo inc
 Windows + S : Cambiar la ventana actual a modo "flotante".
 Windows + Shift + (1,2,3,4,5,6,7,8,9,0) : Mover la ventana actual a otro workspace.
 Windows + Alt + (⬆️⬅️⬇️➡️) : Cambiar el tamaño de la ventana actual (solo funciona si está en modo terminal o flotante).
-Windows + Ctrl + (⬆️⬅️⬇️➡️) : Cambiar la posición de la ventana actual (solo funciona en modo flotante).
+Windows + Shift + (⬆️⬅️⬇️➡️) : Cambiar la posición de la ventana actual (solo funciona en modo flotante).
 Windows + Shift + G : Abrir Google Chrome (es necesario instalarlo primero).
 Windows + Ctrl + Alt + (⬆️⬅️⬇️➡️) : Mostrar una preselección para luego abrir una ventana (una terminal, Google Chrome, un archivo, etc.). Windows + Ctrl + Space para deshacer la preselección.
 ```
