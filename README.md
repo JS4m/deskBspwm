@@ -293,9 +293,10 @@ Añadir # Hashtag
 #source /home/$username/powerlevel10k/powerlevel10k.zsh-theme
 
 
+Comando para personalizar el zsh
 
+echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 
-
-
+luego escribir zsh en terminal y enter
 
 
